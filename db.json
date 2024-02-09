@@ -1,0 +1,631 @@
+{
+  "product": [
+    {
+      "title": "ARGENTINA 22 WINNERS HOME JERSEY",
+      "price": 63,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b1bf7415379d446c88f5af7200c879f3_9366/Argentina_22_Winners_Home_Jersey_White_IB3597_21_model.jpg",
+      "description": "Dress like a champion! Throughout football history, those three blue stripes have stood for mesmerizing footwork and unrivalled commitment. For Argentina's latest home jersey, adidas returned to that winning look. Made for fans, it keeps things comfortable with smooth fabric and moisture-wicking AEROREADY. That champions badge and extra star over the crest confirm a memorable victory. A minimum of 70% of this product is a blend of recycled and renewable materials.",
+      "gender": "men",
+      "bishkek": "on",
+      "astana": "on",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "on",
+      "discount": "",
+      "id": 1,
+<<<<<<< HEAD
+      "likes": []
+=======
+      "likes": [
+        {
+          "id": 1701862837880,
+          "user": "foxy@gmail.com"
+        }
+      ]
+>>>>>>> 3f27f8ffd44b25a6c095aa56b5b40864e6ba4058
+    },
+    {
+      "title": "NIZZA PLATFORM SHOES",
+      "price": 60,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e05ab433db5a48b4abe7abeb000f0a90_9366/Nizza_Platform_Shoes_White_FV5322_01_standard.jpg",
+      "description": "What do skinny jeans and flowy skirts have in common? Both look fantastic with a trendy platform like these adidas Nizza shoes. Step up, step out and give every outfit a little lift. Even if you're just knocking around town.",
+      "gender": "men",
+      "bishkek": "on",
+      "astana": "",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "on",
+      "discount": "",
+      "id": 2,
+      "likes": [
+        {
+          "id": 1701862836029,
+          "user": "foxy@gmail.com"
+        }
+      ],
+      "comments": [
+        {
+          "id": 1701865145141,
+          "body": "qwerty",
+          "rating": 5,
+          "user": "foxy@gmail.com"
+        }
+      ],
+      "rating": 5
+    },
+    {
+      "title": "GROVE BEANIE",
+      "price": 11,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d9cc435d68d045038c25c15c20b51d52_9366/Grove_Beanie_Black_IQ5545_01_standard.jpg",
+      "description": "More than just a graphic, the Trefoil logo is a commitment to pursuing your dreams fearlessly and honoring your originality. Rep it on this adidas beanie. When the temps dip in the city, the soft fabric comes to the rescue, keeping your ears warm.",
+      "gender": "men",
+      "bishkek": "on",
+      "astana": "on",
+      "almaty": "",
+      "moscow": "on",
+      "sale": "on",
+      "discount": "",
+      "id": 3,
+      "likes": [
+        {
+          "id": 1701862840210,
+          "user": "foxy@gmail.com"
+        }
+      ]
+    },
+    {
+      "title": "NMD_R1 SHOES",
+      "price": 120,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0e03e7a2a9cb44dfac2bad6a00f95888_9366/NMD_R1_Shoes_White_GZ9261_01_standard.jpg",
+      "description": "Pack your bag, lace up and get going. City adventures beckon in these NMD_R1 shoes. An update to an acclaimed '80s runner from the adidas archive, these modern sneakers have a soft, stretchy knit upper and energy-returning Boost cushioning for all-day comfort. Bold color and signature midsole plugs make a statement, so wherever you're headed, you're sure to show up in style.",
+      "gender": "men",
+      "bishkek": "",
+      "astana": "",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 4,
+      "likes": [
+        {
+          "id": 1701864042436,
+          "user": "foxy@gmail.com"
+        }
+      ]
+    },
+    {
+      "title": "TERREX SWIFT R3 MID GORE-TEX HIKING SHOES",
+      "price": 90,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/80b9e9bd23ae4a3e9c14aef901073dea_9366/TERREX_Swift_R3_Mid_GORE-TEX_Hiking_Shoes_Black_HR1308_01_standard.jpg",
+      "description": "Trust us, these adidas hiking shoes can handle everything you do. Designed for all-terrain exploration, they add the waterproof, breathable weather protection of GORE-TEX to keep your feet dry and an abrasion-resistant upper for adventure-ready durability. They're lightweight, with a cushioned midsole and reinforced heel cup, so every step inspires the next as you hike, scramble and explore on and off trail. A grippy Continental™ Rubber outsole gives you traction in all weather conditions.",
+      "gender": "men",
+      "bishkek": "",
+      "astana": "on",
+      "almaty": "",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 5,
+      "likes": [
+        {
+          "id": 1701868193777,
+          "user": "foxy@gmail.com"
+        }
+      ]
+    },
+    {
+      "title": "ADICOLOR CLASSICS SST TRACK PANTS",
+      "price": 49,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0b106be0fa784731b291a494794744fe_9366/Adicolor_Classics_SST_Track_Pants_Black_IL2488_21_model.jpg",
+      "description": "Reinventions are all about taking the best of what's been and making it relevant for today. Inspired by archive styles, these adidas track pants pay homage to the past with a slim fit, ribbed cuffs and an embroidered Trefoil logo on one leg. The soft material takes comfort into today, and a drawcord on the elastic waist ensures the perfect fit for every wear. Rock them whenever you're in the mood to relax the day away.",
+      "gender": "men",
+      "bishkek": "on",
+      "astana": "on",
+      "almaty": "on",
+      "moscow": "",
+      "sale": "on",
+      "discount": "",
+      "id": 6,
+      "likes": [
+        {
+          "id": 1701864651826,
+          "user": "foxy@gmail.com"
+        }
+      ]
+    },
+    {
+      "title": "ESSENTIALS FLEECE 3-STRIPES FULL-ZIP HOODIE",
+      "price": 33,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/807c3e1da67d4e2a8156afc50116e218_9366/Essentials_Fleece_3-Stripes_Full-Zip_Hoodie_Grey_IJ6479_21_model.jpg",
+      "description": "When they go loud, you go low-key. This adidas hoodie has plenty of understated appeal. Made from cotton-blend fleece, it keeps you warm from your head to your hands, thanks to the adjustable hood and the cozy front pocket. 3-Stripes at the shoulders add a classic touch. A minimum of 70% of this product is a blend of recycled and renewable materials.",
+      "gender": "men",
+      "bishkek": "on",
+      "astana": "on",
+      "almaty": "",
+      "moscow": "",
+      "sale": "on",
+      "discount": "",
+      "id": 7,
+      "likes": [
+        {
+          "id": 1701864178757,
+          "user": "foxy@gmail.com"
+        }
+      ]
+    },
+    {
+      "title": "OZWEEGO SHOES",
+      "price": 52,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2698652f39894c06b314982f095b5cac_9366/OZWEEGO_Shoes_Beige_IF3336_01_standard.jpg",
+      "description": "Driven by comfort and inspired by the past, the adidas OZWEEGO shoes are a statement in themselves. For this pair, silk suede takes the lead on the upper that is bisected by a 360-degree overlay that blends into the chunky sole. The result is a bold new look built on a classic silhouette. Each step is supported by an EVA midsole with adiPRENE and adiPRENE+ cushioning for all-day comfort to go with the standout look.",
+      "gender": "men",
+      "bishkek": "on",
+      "astana": "on",
+      "almaty": "on",
+      "moscow": "",
+      "sale": "on",
+      "discount": "",
+      "id": 8,
+      "likes": [
+        {
+          "id": 1701867008503,
+          "user": "foxy@gmail.com"
+        }
+      ]
+    },
+    {
+      "title": "ALL ME 2 TOTE",
+      "price": 35,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2d7c29d6b9a949f29da2af6600978e9f_9366/All_Me_2_Tote_Black_GC3114_01_standard.jpg",
+      "description": "Travel in style wherever life takes you. Whether you're headed to the gym, shops in your favorite neighborhood or a weekend away, the adidas All Me 2 Tote has you covered. A crossbody band means you can go hands-free, while a luggage trolley strap will keep it attached as you run for your flight. Made with a series of recycled materials, and at least 40% recycled content, this product represents just one of our solutions to help end plastic waste.",
+      "gender": "men",
+      "bishkek": "",
+      "astana": "",
+      "almaty": "",
+      "moscow": "on",
+      "sale": "on",
+      "discount": "",
+      "id": 9,
+      "likes": [
+        {
+          "id": 1701867010433,
+          "user": "foxy@gmail.com"
+        }
+      ]
+    },
+    {
+      "title": "ADICANE CLOGS",
+      "price": 18,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e51dacfbae5e469e82bfaf470157e868_9366/Adicane_Clogs_Grey_HQ9918_01_standard.jpg",
+      "description": "Great for beaches, brunch spots and everywhere else the warm weather takes you. These adidas clogs simply slide on, with a molded footbed that feels flexible and cushioned. With their sturdy outsole these clogs will make an appearance season after season. These clogs are made with natural and renewable materials as part of our journey to design out finite resources and help end plastic waste.",
+      "gender": "men",
+      "bishkek": "on",
+      "astana": "on",
+      "almaty": "",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 10
+    },
+    {
+      "title": "ESSENTIALS 3-STRIPES OPEN HEM FLEECE PANTS",
+      "price": 40,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1c88afe9c3bf4b4297b3ec3cd8c6a98a_9366/Essentials_3-Stripes_Open_Hem_Fleece_Pants_Grey_IJ8888_21_model.jpg",
+      "description": "These adidas fleece pants slip on easily to get you out the door with time and energy to spare. Made from a cotton-blend fleece, they keep you warm whether you're racing around or moving at a more leisurely pace. 3-Stripes down the legs shout your brand pride. A minimum of 70% of this product is a blend of recycled and renewable materials. Our cotton products support more sustainable cotton farming.",
+      "gender": "men",
+      "bishkek": "",
+      "astana": "on",
+      "almaty": "",
+      "moscow": "",
+      "sale": "",
+      "discount": "",
+      "id": 11
+    },
+    {
+      "title": "TERREX SWIFT R3 GTX",
+      "price": 80,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/475518ab73944e30b5b00a520d23533e_9366/TERREX_SWIFT_R3_GTX_Black_IE7634_HM1.jpg",
+      "description": "Prepared for every hike. The adidas Terrex Swift R3 GORE-TEX Hiking Shoes combine the lightweight design and cushioning of a trail running shoe with the versatility and stability of a hiking boot. A GORE-TEX membrane offers waterproof, breathable coverage against splashes and soggy trails, while the molded sockliner ensures every step you take is comfortably snug. The Continental™ Rubber outsole provides extraordinary traction — whether you're on a forest trail, an alpine hike, or an epic off-trail adventure.",
+      "gender": "men",
+      "bishkek": "",
+      "astana": "",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 12
+    },
+    {
+      "title": "ADILETTE COMFORT SLIDES",
+      "price": 28,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/923bec57082443e39f92ad6e00cbed3d_9366/Adilette_Comfort_Slides_Black_GZ5896_01_standard.jpg",
+      "description": "Whether you're heading to the locker room after an intense gym session or at home recovering on the couch, these slides keep your feet wrapped in lightweight comfort. Pair them with socks and shorts for your post-workout look or with your favorite swimwear for the ultimate beach vibe. The adidas 3-Stripes design completes your sport style.",
+      "gender": "men",
+      "bishkek": "",
+      "astana": "",
+      "almaty": "on",
+      "moscow": "",
+      "sale": "",
+      "discount": "",
+      "id": 13
+    },
+    {
+      "title": "ADICOLOR CLASSICS SST TRACK JACKET",
+      "price": 56,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/dc8dd93eed4b4ae3bbb0afc300988220_9366/Adicolor_Classics_SST_Track_Jacket_Black_IM4545_21_model.jpg",
+      "description": "Everyone needs a good track jacket. Here's yours. Made from soft interlock fabric, this must-have stays true to the archive design it's inspired by. An embroidered Trefoil logo and 3-Stripes honor classic adidas style while the ribbed hem and cuffs keep the fit tailored in all the right places. A full-zip front lets you layer for warmth or wear it open with your favorite tee underneath. A minimum of 70% of this product is a blend of recycled and renewable materials.",
+      "gender": "men",
+      "bishkek": "",
+      "astana": "",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 14
+    },
+    {
+      "title": "ESSENTIALS FLEECE 3-STRIPES FULL-ZIP HOODIE",
+      "price": 52,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/518e6d3f6e854b15be9aafc90093d5fb_9366/Essentials_Fleece_3-Stripes_Full-Zip_Hoodie_Grey_IJ6480_21_model.jpg",
+      "description": "When they go loud, you go low-key. This adidas hoodie has plenty of understated appeal. Made from cotton-blend fleece, it keeps you warm from your head to your hands, thanks to the adjustable hood and the cozy front pocket. 3-Stripes at the shoulders add a classic touch.",
+      "gender": "men",
+      "bishkek": "on",
+      "astana": "on",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 15
+    },
+    {
+      "title": "ESSENTIALS 3-STRIPES OPEN HEM FLEECE PANTS",
+      "price": 40,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7a1bc95370f14afcbaa8acc52e530e81_9366/Essentials_3-Stripes_Open_Hem_Fleece_Pants_Grey_IJ8887_21_model.jpg",
+      "description": "These adidas fleece pants slip on easily to get you out the door with time and energy to spare. Made from a cotton-blend fleece, they keep you warm whether you're racing around or moving at a more leisurely pace. 3-Stripes down the legs shout your brand pride. A minimum of 70% of this product is a blend of recycled and renewable materials. Our cotton products support more sustainable cotton farming.",
+      "gender": "men",
+      "bishkek": "on",
+      "astana": "on",
+      "almaty": "",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 16
+    },
+    {
+      "title": "OWN THE RUN ASTRO KNIT PANTS",
+      "price": 56,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cf30d899b0b4d5ab94f9616b3776661_9366/Own_the_Run_Astro_Knit_Pants_Black_HN0806_HM1.jpg",
+      "description": "Whether you're hitting the pavement with your community or on your own, there's nothing quite like the joyful rush of a runner's high. One thing's for sure: comfort and support are paramount in maximizing your daily run. Your runner's high will feel even better in the Own The Run Astro Knit Pants. Tapered legs are a classic race day look, while ankle zips make for easy on and off before you pound the pavement. A drawcord race keeps them in place as you stride, while sweat-wicking AEROREADY technology keeps you feeling dry. Side and inner coin pockets give you plenty of space for your essentials, while reflective details shine bright in low light.",
+      "gender": "men",
+      "bishkek": "",
+      "astana": "on",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 17
+    },
+    {
+      "title": "OZMORPH SHOES",
+      "price": 56,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/57d0ab235c934d70a470733e65a3ffb7_9366/OZMORPH_Shoes_Green_IE2025_01_standard.jpg",
+      "description": "These adidas shoes combine the best of the 2000's vibe with modern comfort technology. A shiny mixed material upper, fluid lines and chunky tooling pay homage to Y2K sneaker style. Extra heel padding and a cushioned midsole create effortless comfort in every step. Made with a series of recycled materials, this upper features at least 50% recycled content. This product represents just one of our solutions to help end plastic waste.",
+      "gender": "men",
+      "bishkek": "on",
+      "astana": "",
+      "almaty": "",
+      "moscow": "",
+      "sale": "",
+      "discount": "",
+      "id": 18
+    },
+    {
+      "title": "ULTRABOOST LIGHT RUNNING SHOES",
+      "price": 86,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3ab706205aaa47c690f4a1230b112849_9366/Ultraboost_Light_Running_Shoes_Black_IF2414_HM1.jpg",
+      "description": "Experience epic energy with the new Ultraboost Light, our lightest Ultraboost ever. The magic lies in the Light BOOST midsole, a new generation of adidas BOOST. Its unique molecule design achieves the lightest BOOST foam to date. With hundreds of BOOST capsules bursting with energy and ultimate cushioning and comfort, some feet really can have it all.",
+      "gender": "men",
+      "bishkek": "on",
+      "astana": "",
+      "almaty": "",
+      "moscow": "",
+      "sale": "",
+      "discount": "",
+      "id": 19
+    },
+    {
+      "title": "GROVE BEANIE",
+      "price": 11,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8e1851895d134a0ca37d379377ac37b9_9366/Grove_Beanie_Beige_IQ5548_01_standard.jpg",
+      "description": "More than just a graphic, the Trefoil logo is a commitment to pursuing your dreams fearlessly and honoring your originality. Rep it on this adidas beanie. When the temps dip in the city, the soft fabric comes to the rescue, keeping your ears warm.",
+      "gender": "men",
+      "bishkek": "on",
+      "astana": "on",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 20
+    },
+    {
+      "title": "PUREMOTION 2.0 SHOES",
+      "price": 30,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8815065ff8d8461ab7bac772ddd06813_9366/Puremotion_2.0_Shoes_Black_IF2773_01_standard.jpg",
+      "description": "When your life is always in motion, you need a sneaker that can keep up. These adidas shoes combine everyday style with unstoppable comfort. The silhouette brings an energetic vibe to everything you do. From lunch dates to weekly errands, its streamlined style fits any outfit. The Cloudfoam midsole and memory foam sockliner bring ultra-soft cushioning for all-day comfort. Made with a series of recycled materials, this upper features at least 50% recycled content. This product represents just one of our solutions to help end plastic waste.",
+      "gender": "women",
+      "bishkek": "on",
+      "astana": "",
+      "almaty": "",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 21
+    },
+    {
+      "title": "RACER TR23 SHOES",
+      "price": 32,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fe5ff84293114ec3bc8b91f95c8bf7ee_9366/Racer_TR23_Shoes_Black_IF0043_01_standard.jpg",
+      "description": "Sleek, sporty and seriously comfy. Teaming nicely with jeans, dresses and just about everything else in your closet, these adidas sneakers will stay in constant rotation. The smooth upper is lined for softness, while Cloudfoam cushioning delivers all the support you need on days that have you running here, there and everywhere. Made with a series of recycled materials, this upper features at least 50% recycled content. This product represents just one of our solutions to help end plastic waste.",
+      "gender": "women",
+      "bishkek": "",
+      "astana": "on",
+      "almaty": "on",
+      "moscow": "",
+      "sale": "",
+      "discount": "",
+      "id": 22
+    },
+    {
+      "title": "NIZZA PLATFORM SHOES",
+      "price": 60,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e05ab433db5a48b4abe7abeb000f0a90_9366/Nizza_Platform_Shoes_White_FV5322_01_standard.jpg",
+      "description": "What do skinny jeans and flowy skirts have in common? Both look fantastic with a trendy platform like these adidas Nizza shoes. Step up, step out and give every outfit a little lift. Even if you're just knocking around town.",
+      "gender": "women",
+      "bishkek": "on",
+      "astana": "on",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 23
+    },
+    {
+      "title": "NMD_R1 SHOES",
+      "price": 120,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/62d96641e799450fbbdfad0800cb06ed_9366/NMD_R1_Shoes_Black_GZ9256_01_standard.jpg",
+      "description": "Pack your bag, lace up and get going. City adventures beckon in these NMD_R1 shoes. An update to an acclaimed '80s runner from the adidas archive, these modern sneakers have a soft, stretchy knit upper and energy-returning Boost cushioning for all-day comfort. Bold color and signature midsole plugs make a statement, so wherever you're headed, you're sure to show up in style. This product is made with a yarn that features 50% recycled polyester and 50% Parley Ocean Plastic — plastic waste which we intercepted from remote islands, beaches, coastal communities and shorelines in order to prevent it from polluting our oceans. In total, this product has 20% recycled content.",
+      "gender": "women",
+      "bishkek": "",
+      "astana": "",
+      "almaty": "",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 24
+    },
+    {
+      "title": "NMD_R1 SHOES",
+      "price": 120,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c3bd9dda9fdd4a7cbc9aad1e00dd0045_9366/NMD_R1_Shoes_White_GZ9260_01_standard.jpg",
+      "description": "Pack your bag, lace up and get going. City adventures beckon in these NMD_R1 shoes. An update to an acclaimed '80s runner from the adidas archive, these modern sneakers have a soft, stretchy knit upper and energy-returning Boost cushioning for all-day comfort. Bold color and signature midsole plugs make a statement, so wherever you're headed, you're sure to show up in style. This product is made with a yarn that features 50% recycled polyester and 50% Parley Ocean Plastic — plastic waste which we intercepted from remote islands, beaches, coastal communities and shorelines in order to prevent it from polluting our oceans. In total, this product has 20% recycled content.",
+      "gender": "women",
+      "bishkek": "on",
+      "astana": "on",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 25
+    },
+    {
+      "title": "GROVE BEANIE",
+      "price": 11,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d9cc435d68d045038c25c15c20b51d52_9366/Grove_Beanie_Black_IQ5545_01_standard.jpg",
+      "description": "More than just a graphic, the Trefoil logo is a commitment to pursuing your dreams fearlessly and honoring your originality. Rep it on this adidas beanie. When the temps dip in the city, the soft fabric comes to the rescue, keeping your ears warm.",
+      "gender": "women",
+      "bishkek": "",
+      "astana": "on",
+      "almaty": "",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 26
+    },
+    {
+      "title": "BIG BAFFLE COAT",
+      "price": 140,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a63de313f8e8443788da1a6820241fde_9366/Big_Baffle_Coat_Black_IK3159_21_model.jpg",
+      "description": "Take on the cold in this adidas coat. Its big-baffle design promises supreme fluffiness for an unapologetically comfortable look. Duck down insulation offers unbeatable warmth. Hidden elastic inner cuffs seal out the cold. The loose fit means easy layering over bulky items. Made with a series of recycled materials, and at least 70% recycled content, this product represents just one of our solutions to help end plastic waste.",
+      "gender": "women",
+      "bishkek": "",
+      "astana": "",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 27
+    },
+    {
+      "title": "NMD_R1 SHOES",
+      "price": 120,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d44fa06fc83f4644b7e8acbc01160e1b_9366/NMD_R1_Shoes_Black_GZ9258_01_standard.jpg",
+      "description": "Pack your bag, lace up and get going. City adventures beckon in these NMD_R1 shoes. An update to an acclaimed '80s runner from the adidas archive, these modern sneakers have a soft, stretchy knit upper and energy-returning Boost cushioning for all-day comfort. Bold color and signature midsole plugs make a statement, so wherever you're headed, you're sure to show up in style.",
+      "gender": "women",
+      "bishkek": "on",
+      "astana": "",
+      "almaty": "",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 28
+    },
+    {
+      "title": "NMD_R1 SHOES",
+      "price": 120,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0e03e7a2a9cb44dfac2bad6a00f95888_9366/NMD_R1_Shoes_White_GZ9261_01_standard.jpg",
+      "description": "Pack your bag, lace up and get going. City adventures beckon in these NMD_R1 shoes. An update to an acclaimed '80s runner from the adidas archive, these modern sneakers have a soft, stretchy knit upper and energy-returning Boost cushioning for all-day comfort. Bold color and signature midsole plugs make a statement, so wherever you're headed, you're sure to show up in style.",
+      "gender": "women",
+      "bishkek": "on",
+      "astana": "",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 29
+    },
+    {
+      "title": "ESSENTIALS 3-STRIPES FLEECE PANTS",
+      "price": 18,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7d14dafb69ed4a629428afc900ea4ecb_9366/Essentials_3-Stripes_Fleece_Pants_Grey_IL3282_21_model.jpg",
+      "description": "So comfortable, you'll wonder what you wore before. These adidas sweat pants are made from a cozy cotton-blend fleece that feels extra soft against the skin. Cut for a close, tapered fit through the legs, they team easily with all types of footwear, from low-top sneakers to socks and slides. We partner with Better Cotton to improve cotton farming globally. Better Cotton makes global cotton production better for the people who produce it, better for the environment it grows in, and better for the sector's future.",
+      "gender": "women",
+      "bishkek": "",
+      "astana": "",
+      "almaty": "on",
+      "moscow": "",
+      "sale": "",
+      "discount": "",
+      "id": 30
+    },
+    {
+      "title": "NIZZA PLATFORM SHOES",
+      "price": 32,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3656af5427f540cb90b9f3ca478b5210_9366/Nizza_Platform_Shoes_Pink_IG5058_01_standard.jpg",
+      "description": "Since their introduction in the mid-'70s, the adidas Nizza shoes have embraced a free spirit. This classic canvas style first appeared on the hardwood and quickly found a broader audience as a fashion statement. This pair goes for a platform look that takes your self-expression up a notch. The two-tone design is classy and clean, and ties the look together from the chunky sole to the dainty Trefoils.",
+      "gender": "women",
+      "bishkek": "",
+      "astana": "on",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 31
+    },
+    {
+      "title": "ULTRABOOST LIGHT RUNNING SHOES",
+      "price": 76,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ce02de2723a4971b146d9d0fd681a06_9366/Ultraboost_Light_Running_Shoes_Black_IE1764_01_standard.jpg",
+      "description": "Lace up in a pair of Ultraboost Light running shoes from adidas, and experience energy return like never before. They feature a Light BOOST midsole, our next generation of adidas BOOST and our lightest one yet, designed to keep you going strong through runs of any distance and pace. The Linear Energy Push system, integrated with the outsole, increases stability, and foot-hugging adidas PRIMEKNIT tops it off for a smooth, responsive ride.",
+      "gender": "women",
+      "bishkek": "on",
+      "astana": "on",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 32
+    },
+    {
+      "title": "ALL ME 2 TOTE",
+      "price": 35,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2d7c29d6b9a949f29da2af6600978e9f_9366/All_Me_2_Tote_Black_GC3114_01_standard.jpg",
+      "description": "Travel in style wherever life takes you. Whether you're headed to the gym, shops in your favorite neighborhood or a weekend away, the adidas All Me 2 Tote has you covered. A crossbody band means you can go hands-free, while a luggage trolley strap will keep it attached as you run for your flight. Made with a series of recycled materials, and at least 40% recycled content, this product represents just one of our solutions to help end plastic waste.",
+      "gender": "women",
+      "bishkek": "",
+      "astana": "",
+      "almaty": "",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 33
+    },
+    {
+      "title": "HELIONIC DOWN VEST",
+      "price": 52,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fa97f201ef394fe9a284ae7000fd3c83_9366/Helionic_Down_Vest_Black_HG6280_21_model.jpg",
+      "description": "Wintry weather calls for warm layers, and this adidas down vest is one of your most versatile. You can layer it over a t-shirt or wool sweater to match the conditions, and you'll stay warm with 600-fill down. A water-repellent finish comes to the rescue when it's soggy out, while zip pockets offer safe transport for your phone. Made with a series of recycled materials, and at least 60% recycled content, this product represents just one of our solutions to help end plastic waste.",
+      "gender": "women",
+      "bishkek": "on",
+      "astana": "on",
+      "almaty": "",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 34
+    },
+    {
+      "title": "ADIFOM STAN SMITH MULE SHOES",
+      "price": 56,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbc0913b907f4473bb80af9c017af432_9366/Adifom_Stan_Smith_Mule_Shoes_Green_IE7050_01_standard.jpg",
+      "description": "Slip them on and go off. Shaking up a classic, these adidas mules honor the iconic Stan Smith shoes in a way you never knew you needed. The clean upper and heel cap detail are inspired by the original, but the chunky proportions and ultra-smooth feel revolutionize with a modern twist. They're built with a foam material that's made in part from sugarcane for eco-minded design you'll be proud to rock. No straps or laces means they slip on and off — but stay comfortably on your feet the entire wear.",
+      "gender": "women",
+      "bishkek": "on",
+      "astana": "",
+      "almaty": "on",
+      "moscow": "",
+      "sale": "",
+      "discount": "",
+      "id": 35
+    },
+    {
+      "title": "ADICOLOR CLASSICS FIREBIRD TRACK PANTS",
+      "price": 56,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/465fbde72c484513969eafcd002c2348_9366/Adicolor_Classics_Firebird_Track_Pants_Black_IL8763_21_model.jpg",
+      "description": "These classic adidas track pants combine a timeless look with the convenience of everyday comfort. Featuring zip pockets, 3-Stripes along the legs, and an embroidered logo, they have all the ingredients for greatness. Take your look from good to great by pairing these with a 1/4 track jacket or a Cozy hoodie.",
+      "gender": "women",
+      "bishkek": "on",
+      "astana": "on",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 36
+    },
+    {
+      "title": "CLOUDFOAM PURE SHOES",
+      "price": 60,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7d8ef5f822e24c01bf067073bba6518c_9366/Cloudfoam_Pure_Shoes_Black_IG2530_01_standard.jpg",
+      "description": "From morning till evening, you're always on the move. You need shoes that can keep up. These adidas sneakers combine comfort and versatility. The Cloudfoam midsole cushioning makes each step feel effortless. The sleek, casual look goes with any outfit, so you can transition seamlessly from one thing to the next",
+      "gender": "women",
+      "bishkek": "",
+      "astana": "on",
+      "almaty": "",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 37
+    },
+    {
+      "title": "SUPERSTAR SHOES",
+      "price": 88,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/995b2250d3a044ad89d8b99a43e538bf_9366/Superstar_Shoes_Black_IF7616_01_standard.jpg",
+      "description": "Since their first steps on the hardwood, the adidas Superstar shoes have transcended basketball and made their mark in modern fashion. This pair continues to show off its timeless design with the iconic shell toe and sleek shape. The 3-Stripes take on a suede leopard print that makes sure you stand out from the crowd. Lace them up and feel why they're a solidified classic.",
+      "gender": "women",
+      "bishkek": "",
+      "astana": "on",
+      "almaty": "",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 38
+    },
+    {
+      "title": "ADIFOM SST BOOT SHOES",
+      "price": 80,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9b3a237161c649269523653809127335_9366/AdiFOM_SST_Boot_Shoes_Black_IG3029_01_standard.jpg",
+      "description": "The adidas Superstar shoes are all about individuality. Not afraid to break the mold, the adidas AdiFOM SST Boot shoes take inspiration from the past and re contextualize it to influence modern streetwear. A boot cut design and sustainable foam build look to the future while the iconic shell toe celebrates their history. Throw on a pair of socks for ideal comfort and let the soft foam do the rest. These shoes are made with natural and renewable materials as part of our journey to design out finite resources and help end plastic waste.",
+      "gender": "women",
+      "bishkek": "on",
+      "astana": "on",
+      "almaty": "on",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 39
+    },
+    {
+      "title": "ULTRABOOST LIGHT RUNNING SHOES",
+      "price": 76,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0f8c8a87f32f4f2fa52c176dbac2e20b_9366/Ultraboost_Light_Running_Shoes_Black_HP9477_HM1.jpg",
+      "description": "What if you could get back the energy you give to your run? With these adidas running shoes, you can. Built on our lightest BOOST yet, they offer even more energy return than previous pairs. No matter how many miles you rack up, an adidas PRIMEKNIT+ Forged upper supports your stride with lockdown and expansion zones. An Energy Linear Push System gives you a little extra push in each step.",
+      "gender": "women",
+      "bishkek": "",
+      "astana": "on",
+      "almaty": "",
+      "moscow": "on",
+      "sale": "",
+      "discount": "",
+      "id": 40
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+.navver {
+  height: 50px;
+  width: 100%;
+  background-color: transparent;
+  position: fixed;
+  z-index: 50;
+  top: 0; 
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 1rem;
+  padding-right: 3rem;
+  margin: 0;
+}
+
+main {
+  padding: 50px;
+}
+
+p {
+  margin: 20px;
+}
+
+.burger-btn {
+  width: 30px;
+  height: 30px;
+  margin-left: 20px;
+  position: relative;
+  cursor: pointer;
+}
+
+.burger-btn::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 20px;
+  background-color: white;
+  height: 2px;
+}
+.burger-btn::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  width: 20px;
+  background-color: white;
+  height: 2px;
+}
+.burger-btn span {
+  position: absolute;
+  top: 9px;
+  width: 20px;
+  background-color: white;
+  height: 1.5px;
+  margin-top: 5px;
+}
+
+
+.nav_logo_img{
+    width: 4.2rem;
+    height: 3rem;
+}
+

@@ -1,0 +1,8 @@
+.app {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.mainn{
+    flex:1 1 auto;
+}

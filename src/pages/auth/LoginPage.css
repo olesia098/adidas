@@ -1,0 +1,12 @@
+
+.login-bg{
+    background-image: url("../../assets/bg_login.svg");
+    background-size: cover;
+    height: 750px;
+}
+
+.register-bg{
+    background-image: url("../../assets/bg_register.svg");
+    background-size: cover;
+    height: 750px;
+}
